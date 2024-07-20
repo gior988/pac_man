@@ -1,4 +1,5 @@
 import turtle
+import time
 screen=turtle.Screen()
 
 pacman=turtle.Turtle()
